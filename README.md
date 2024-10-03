@@ -8,9 +8,9 @@ This project provides an in-depth analysis of call center performance metrics, i
 * Major reasons for customer calls (e.g., streaming, technical support).
 * Agents’ speed of resolution and call abandonment rates.<br/>
 
-For Dataset: [click here]() <br/>
-For Full Details of the Project: [Access Here]() <br/>
-For Live Dashboard: [check here]() <br/>
+For Dataset: [click here](https://github.com/Satya0321/Power-BI_Projects/blob/main/CALL%20CENTER/01%20Call-Center-Dataset.xlsx) <br/>
+For Full Details of the Project: [Access Here](https://github.com/Satya0321/Power-BI_Projects/blob/main/CALL%20CENTER/Call%20Center%20project.pdf) <br/>
+For Live Dashboard: [check here](https://github.com/Satya0321/Power-BI_Projects/blob/main/CALL%20CENTER/call%20center.pbix) <br/>
 ## Project 2: Customer Retention Analysis
 #### Description:  
 This project assesses customer retention rates and churn patterns, helping businesses identify at-risk customers. It uses metrics such as customer lifetime value, engagement patterns, and satisfaction scores to create a strategy for retention.
@@ -19,9 +19,9 @@ This project assesses customer retention rates and churn patterns, helping busin
 * Strategies to boost customer satisfaction and retention.
 * Predictive analysis to reduce churn and improve long-term customer relationships. <br/>
 
-For Dataset: [click here]() <br/>
-For Full Details of the Project: [Access Here]() <br/>
-For Live Dashboard: [check here]() <br/> 
+For Dataset: [click here](https://github.com/Satya0321/Power-BI_Projects/blob/main/CUSTOMER%20RETENTION/02%20Churn-Dataset.xlsx) <br/>
+For Full Details of the Project: [Access Here](https://github.com/Satya0321/Power-BI_Projects/blob/main/CUSTOMER%20RETENTION/Customer%20Retention.pdf) <br/>
+For Live Dashboard: [check here](https://github.com/Satya0321/Power-BI_Projects/blob/main/CUSTOMER%20RETENTION/Customer%20Retention.pbix) <br/> 
 ## Project 3: Diversity and Inclusion Dashbord
 #### Description:
 A comprehensive analysis focusing on gender diversity, hiring, promotion trends, turnover rates, and performance ratings across different job levels. This dashboard supports HR teams in understanding gender disparities and promoting a more inclusive workplace.
@@ -30,6 +30,6 @@ A comprehensive analysis focusing on gender diversity, hiring, promotion trends,
 * Higher turnover rate for women and gender gap in executive roles.
 * Performance ratings are consistent across genders, suggesting fair evaluation processes. <br/>
 
-For Dataset: [click here]() <br/>
-For Full Details of the Project: [Access Here]() <br/>
-For Live Dashboard: [check here]() <br/>
+For Dataset: [click here](https://github.com/Satya0321/Power-BI_Projects/blob/main/HR%20MANAGER/03%20Diversity-Inclusion-Dataset.xlsx) <br/>
+For Full Details of the Project: [Access Here](https://github.com/Satya0321/Power-BI_Projects/blob/main/HR%20MANAGER/Diversity%20and%20Inclusion.pdf) <br/>
+For Live Dashboard: [check here](https://github.com/Satya0321/Power-BI_Projects/blob/main/HR%20MANAGER/Diversity%20and%20Inclusion.pbix) <br/>
